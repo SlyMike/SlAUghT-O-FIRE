@@ -1,4 +1,4 @@
-# slAUghT-O-FIRE
+# SlAUghT-O-FIRE
 
 V2.2
 
@@ -19,3 +19,4 @@ Serial Debug mode.
 
 
 #slaughtofire
+Slaughter the competition!
